@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------
 # Project: PECA Real Data Analysis: MCI/AD Prediction Across ADRCs
 # Analysis: ADNI Data Cleaning and Preparation for Modeling (Future Impairment)
-# Author: Henry Bayly (Original) / Gemini (Refactoring)
+# Author: Henry Bayly
 # Date: December 5, 2025
 # ----------------------------------------------------------------------
 
