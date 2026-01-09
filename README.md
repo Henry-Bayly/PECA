@@ -1,4 +1,6 @@
-# PECA
+# Proximal Error based Confidence Adjustment (PECA)
+## Henry Bayly | Boston University | Department of Biostatistics
+
 This repository contains source code for the Proximal Error based Confidence Adjustment (PECA) method. The simulation code folder contains all the neccessary code to create the data files, plots, and tables shown in the paper. In order to run them, ensure that all required packages are installed and working directories are adjusted. Then run the all of the scripts except the SimulationAnalysis.R script. Following the completion of those, there should be 6 datasets created. You can then run the SimulationAnalysis.R script to harmonize the results and create various tables and plots. 
 
 Importantly, the real data is not stored here. The NACC and ADNI datasets can be accessed upon reasonable request from the respective centers (https://adni.loni.usc.edu/data-samples/adni-data/ and https://naccdata.org/data-collection/forms-documentation/uds-4). The code to generate the results shown in the paper is presented here in the RealDataCode folder. The preperation files clean and harmonize the data for modeling. Finally, the analysis script will take the data created from those files to reproduce the results from the paper.
